@@ -1,0 +1,1 @@
+Kalite problemlerinden dolayı live stream yerine hazır video tercih ettim. Video capture seçeneğini webcam olarak seçmek dışında bir farkı yoktur.
